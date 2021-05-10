@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/myrepoi/static/css/main.7664d65e.chunk.css",
+    "main.js": "/myrepoi/static/js/main.17fdb2c2.chunk.js",
+    "main.js.map": "/myrepoi/static/js/main.17fdb2c2.chunk.js.map",
+    "runtime-main.js": "/myrepoi/static/js/runtime-main.5eaf5416.js",
+    "runtime-main.js.map": "/myrepoi/static/js/runtime-main.5eaf5416.js.map",
+    "static/js/2.bb773e7d.chunk.js": "/myrepoi/static/js/2.bb773e7d.chunk.js",
+    "static/js/2.bb773e7d.chunk.js.map": "/myrepoi/static/js/2.bb773e7d.chunk.js.map",
+    "static/js/3.64c19493.chunk.js": "/myrepoi/static/js/3.64c19493.chunk.js",
+    "static/js/3.64c19493.chunk.js.map": "/myrepoi/static/js/3.64c19493.chunk.js.map",
+    "index.html": "/myrepoi/index.html",
+    "static/css/main.7664d65e.chunk.css.map": "/myrepoi/static/css/main.7664d65e.chunk.css.map",
+    "static/js/2.bb773e7d.chunk.js.LICENSE.txt": "/myrepoi/static/js/2.bb773e7d.chunk.js.LICENSE.txt",
+    "static/media/mypic1.34ba6f94.png": "/myrepoi/static/media/mypic1.34ba6f94.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5eaf5416.js",
+    "static/js/2.bb773e7d.chunk.js",
+    "static/css/main.7664d65e.chunk.css",
+    "static/js/main.17fdb2c2.chunk.js"
+  ]
+}
